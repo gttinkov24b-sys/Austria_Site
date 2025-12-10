@@ -7,6 +7,7 @@ For a project out of school I made this static website. All made in HTML and to 
 - How to work with iframes
 - how to improve the website structure to avoid "broken" layouts
 - Organising my file structure better
+---
 
 <sup><sup> Huge thanks to my teacher for allowing me to post this here</sup></sup>
 
