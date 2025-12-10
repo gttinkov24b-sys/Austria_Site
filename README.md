@@ -1,9 +1,9 @@
-# Austria site(private)
+# Austria site(private site)
 ---
 For a project out of school I made this static website. All made in HTML and to practice basic web development skills, page structure, frames/iframes, and styling.
 
 ---
-What I learnt:
+### What I learnt:
 - How to work with iframes
 - how to improve the website structure to avoid "broken" layouts
 - Organising my file structure better
