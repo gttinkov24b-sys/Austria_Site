@@ -11,4 +11,4 @@ For a project at school, I made this static website using HTML to practice basic
 <sup><sup> Huge thanks to my teacher for allowing me to post this here</sup></sup>
 
 
-<small> And thanks for reading<small>
+<small> And thanks for reading</small>
